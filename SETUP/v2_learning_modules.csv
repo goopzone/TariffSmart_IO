@@ -1,0 +1,4 @@
+id,title,slug,description,category,difficulty,estimated_minutes,featured,order
+1,Introduction to Tariffs,intro-to-tariffs,"Learn about the basics of tariffs, their purpose, and how they impact global trade.",Basics,beginner,30,t,1
+2,Trade Agreements Fundamentals,trade-agreements-fundamentals,Understand the structure and purpose of international trade agreements and their role in global commerce.,Trade Policy,beginner,45,t,2
+3,Advanced Tariff Classification,advanced-tariff-classification,Master the complexities of the Harmonized System and learn how to properly classify goods for customs purposes.,Compliance,advanced,60,t,3

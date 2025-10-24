@@ -1,0 +1,13 @@
+id,name,description,category_id,origin_country,current_price,estimated_increase,impact_level
+1,Smartphones,Mobile phones and accessories,1,China,899,40.5,High
+2,Laptops,Portable computers,1,China,1200,54,High
+3,TVs,Televisions and home entertainment,1,South Korea,750,22.5,Medium
+4,T-Shirts,Casual cotton shirts,2,Bangladesh,15,1.5,Low
+5,Jeans,Denim pants,2,Vietnam,45,6.75,Medium
+6,Action Figures,Collectible toys,3,China,25,11.25,High
+7,Board Games,Family board games,3,China,35,15.75,High
+8,Sofas,Living room furniture,4,Vietnam,899,134.85,Medium
+9,Coffee Tables,Living room tables,4,China,250,112.5,High
+10,Imported Chocolates,Premium chocolate assortments,5,EU,12,1.8,Medium
+11,Imported Cheese,Specialty cheeses,5,EU,15,2.25,Medium
+12,Imported Wines,Premium wines,5,EU,35,5.25,Medium

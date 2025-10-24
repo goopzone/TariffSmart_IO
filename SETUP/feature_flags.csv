@@ -1,0 +1,8 @@
+id,name,is_enabled,description
+1,productFiltering,t,Enables product filtering functionality
+2,calculator,t,Enables the tariff calculator tool
+4,emailAlerts,t,Enables email alert signup functionality
+5,alternativeProducts,f,Enables alternative product recommendations
+3,authentication,t,Enables user authentication features
+6,showAds,f,Controls whether ads are displayed throughout the application
+7,showSocialLinks,f,Controls whether social media links are displayed in the footer

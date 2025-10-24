@@ -1,0 +1,53 @@
+id,name,base_tariff,reciprocal_tariff,effective_date,impact_level
+8,China,20,125,"April 9, 2025",High
+9,Cote d'Ivoire,10,22,"July 8, 2025",Low
+10,European Union,10,20,"July 8, 2025",Low
+11,Falkland Islands,10,42,"July 8, 2025",High
+12,Fiji,10,32,"July 8, 2025",Medium
+13,Guyana,10,38,"July 8, 2025",High
+14,India,10,27,"July 8, 2025",Medium
+15,Indonesia,10,32,"July 8, 2025",Medium
+16,Iraq,10,39,"July 8, 2025",High
+17,Israel,10,17,"July 8, 2025",Low
+18,Japan,10,24,"July 8, 2025",Low
+19,Jordan,10,20,"July 8, 2025",Low
+20,Kazakhstan,10,27,"July 8, 2025",Medium
+21,Kenya,10,30,"July 8, 2025",Medium
+22,Lesotho,10,50,"July 8, 2025",High
+23,Libya,10,31,"July 8, 2025",Medium
+24,Liechtenstein,10,37,"July 8, 2025",High
+25,Loos,10,48,"July 8, 2025",High
+26,Madagascar,10,47,"July 8, 2025",High
+27,Malawi,10,18,"July 8, 2025",Low
+28,Malaysia,10,24,"July 8, 2025",Low
+29,Mauritius,10,40,"July 8, 2025",High
+30,Moldova,10,31,"July 8, 2025",Medium
+31,Myanmar (Burma),10,45,"July 8, 2025",High
+32,Namibia,10,21,"July 8, 2025",Low
+33,Nicaragua,10,19,"July 8, 2025",Low
+34,Norfolk Island,10,28,"July 8, 2025",Medium
+1,Algeria,10,29,"July 8, 2025",Medium
+2,Angola,10,32,"July 8, 2025",Medium
+3,Bangladesh,10,37,"July 8, 2025",High
+4,Bosnia and Herzegovina,10,35,"July 8, 2025",High
+5,Botswana,10,38,"July 8, 2025",High
+6,Brunei,10,24,"July 8, 2025",Low
+7,Cambodia,10,49,"July 8, 2025",High
+35,North Macedonia,10,33,"July 8, 2025",Medium
+36,Pakistan,10,29,"July 8, 2025",Medium
+37,Philippines,10,17,"July 8, 2025",Low
+38,Reunion,10,37,"July 8, 2025",High
+39,Saint Pierre and Miquelon,10,50,"July 8, 2025",High
+40,Serbia,10,37,"July 8, 2025",High
+41,South Africa,10,30,"July 8, 2025",Medium
+42,South Korea,10,25,"July 8, 2025",Medium
+43,Sri Lanka,10,46,"July 8, 2025",High
+44,Switzerland,10,31,"July 8, 2025",Medium
+45,Syria,10,41,"July 8, 2025",High
+46,Taiwan,10,32,"July 8, 2025",Medium
+47,Thailand,10,36,"July 8, 2025",High
+48,Tunisia,10,28,"July 8, 2025",Medium
+49,Vanuatu,10,23,"July 8, 2025",Low
+50,Vietnam,10,46,"July 8, 2025",High
+51,Zambia,10,17,"July 8, 2025",Low
+52,Zimbabwe,10,18,"July 8, 2025",Low

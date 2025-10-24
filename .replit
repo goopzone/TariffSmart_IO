@@ -54,11 +54,5 @@ mode = "sequential"
 task = "shell.exec"
 args = "npm run dev"
 
-[[workflows.workflow]]
-name = "Start Dev Server"
-author = 41710890
-mode = "sequential"
-
-[[workflows.workflow.tasks]]
-task = "shell.exec"
-args = "npm run dev"
+[agent]
+expertMode = true

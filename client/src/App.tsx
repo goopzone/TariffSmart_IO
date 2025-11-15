@@ -16,6 +16,7 @@ import NotFound from "@/pages/not-found";
 import ComingSoon from "@/pages/ComingSoon";
 
 import { Header } from '@/components/layout/Header';
+import { WarningBanner } from '@/components/layout/WarningBanner';
 import { AdManager } from '@/components/ads/AdManager';
 
 function Router() {
@@ -30,6 +31,7 @@ function Router() {
   return (
     <div className="min-h-screen flex flex-col">
       <Header />
+      <WarningBanner />
       <AdManager showFooter={false} />
       <div className="flex-grow">
         <Switch>

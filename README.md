@@ -6,6 +6,9 @@ An educational platform helping consumers understand and navigate the impact of 
 
 TariffSmart is a dual-platform application that empowers consumers with knowledge about international trade and its effects on their purchasing power. The platform combines practical tools for calculating tariff impacts with comprehensive educational resources for building trade literacy.
 
+The application is not being maintained any more.
+This project was the first in my "Adventures in Vibecoding" series - a collection of experiments and learning projects where I explore new tools, techniques, and workflows in software development.
+
 ### Platform Versions
 
 **V1 - Tariff Impact Tracker**
@@ -13,6 +16,12 @@ The main application provides data-driven tools for understanding how tariffs af
 
 **V2 - Education Platform**
 An interactive learning experience focused on building foundational knowledge about international trade, tariffs, and global commerce through gamified content.
+
+---
+
+*The following screenshot shows the visual appearance of the application when it was live:*
+
+![TariffSmart Homepage Screenshot](attached_assets/homepage-screenshot.png)
 
 ## Features
 
